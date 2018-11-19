@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Emergency Contacts</string>
+    <string name="txtname">Name</string>
+    <string name="txttel">Tel</string>
+    <string name="emeg_contacts">Your Emergency Contacts</string>
+    <string name="hint_edtxtname">Entry Name</string>
+    <string name="hint_edtxttel">Entry Tel</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_all_contacts">Contacts</string>
+    <string name="btn_delete">Delete</string>
+
+</resources>
